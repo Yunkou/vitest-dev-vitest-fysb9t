@@ -1,0 +1,8 @@
+node_modules
+coverage
+pnpm-lock.yaml
+.eslintcache
+/.idea/
+package-lock.json
+/dist
+.DS_Store
